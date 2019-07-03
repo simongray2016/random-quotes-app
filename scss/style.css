@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    color: #3a3f58;
+    background-color: #ee6a59;
+}
+
+.quote-container {
+    border-radius: 5px;
+    background-color: #ece6cd;
+}
+
+.api {
+    color: #3a3f58;
+    transition: all 0.5s;
+}
+
+.api:hover {
+    color: white;
+    text-decoration: none;
+}
